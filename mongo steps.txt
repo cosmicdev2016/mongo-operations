@@ -1,0 +1,15 @@
+Create this folder
+
+C:\data\db 
+
+bin>mongod.exe
+
+Missing DLL issue:
+----------------------
+Download Visual C++ Redistributable from
+
+https://www.microsoft.com/en-in/download/details.aspx?id=48145
+
+After installation, try to rerun mongo.exe.
+
+Run cmd from the program folder and install mongodb package: npm i mongodb 
